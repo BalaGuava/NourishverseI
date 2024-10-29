@@ -1,0 +1,6 @@
+@NourishverseIBackend_HostAddress = http://localhost:5010
+
+GET {{NourishverseIBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
