@@ -628,7 +628,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gFIskoJq5RfZxauduxOa" name="kitchen_flow">
-    <mxGraphModel dx="5380" dy="2737" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3638" dy="1763" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -758,7 +758,7 @@
         </mxCell>
         <mxCell id="v0tDnbbT2yXJyxslpekg-148" value="cleaning and refind tool" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="v0tDnbbT2yXJyxslpekg-147">
           <mxGeometry x="-0.2569" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="v0tDnbbT2yXJyxslpekg-260" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="v0tDnbbT2yXJyxslpekg-16" target="v0tDnbbT2yXJyxslpekg-270">
@@ -768,7 +768,7 @@
         </mxCell>
         <mxCell id="v0tDnbbT2yXJyxslpekg-275" value="cutting bord" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="v0tDnbbT2yXJyxslpekg-260">
           <mxGeometry x="0.8178" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-48" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="v0tDnbbT2yXJyxslpekg-16" value="kind of tool?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1355,6 +1355,12 @@
         </mxCell>
         <mxCell id="v0tDnbbT2yXJyxslpekg-274" value="cutting" style="swimlane;whiteSpace=wrap;html=1;fillColor=#E89689;strokeColor=#B0284D;strokeWidth=4;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="833" y="598.84" width="500" height="228" as="geometry" />
+        </mxCell>
+        <mxCell id="v0tDnbbT2yXJyxslpekg-278" value="&lt;div&gt;一般增加-尾部增加:點擊尾部加號&lt;/div&gt;&lt;div&gt;一般刪減&lt;span style=&quot;background-color: initial;&quot;&gt;:雙擊or點擊刪除按鈕後點擊規劃點&lt;/span&gt;&lt;/div&gt;改變互動工具-不改變順序&lt;span style=&quot;background-color: initial;&quot;&gt;:拖動已經設置的點&lt;/span&gt;&lt;div&gt;改變互動工具-改變順序-中點增加:線與線中間有加號&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;增加互動次數:&lt;/span&gt;點擊原來的點&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;按鈕:&lt;/div&gt;&lt;div&gt;刪除按鈕&lt;/div&gt;&lt;div&gt;增加按鈕&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-398" y="559.5" width="385" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="v0tDnbbT2yXJyxslpekg-279" value="默認把東西放著不拿走&lt;div&gt;1=next&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-611.5" y="902.5" width="178" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
