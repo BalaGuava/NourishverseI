@@ -1,9 +1,24 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="第 1 页" id="pUmAYFhH8gX9ZdCoPKHY">
-    <mxGraphModel>
+    <mxGraphModel dx="2148" dy="632" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3y2mPfEz16o8gOErcH9n-1" value="發展vs永續" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="42" y="219" width="148" height="341" as="geometry" />
+        </mxCell>
+        <mxCell id="3y2mPfEz16o8gOErcH9n-2" value="升官vs服務" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="205" y="219" width="173" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="3y2mPfEz16o8gOErcH9n-3" value="邪惡vs善良" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="383" y="219" width="159" height="332" as="geometry" />
+        </mxCell>
+        <mxCell id="3y2mPfEz16o8gOErcH9n-4" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;快速升餐廳&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D6CF65;" vertex="1" parent="1">
+          <mxGeometry x="78" y="294" width="76" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="3y2mPfEz16o8gOErcH9n-5" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;u&gt;劇情方向選擇時間圖&lt;/u&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-36" y="131" width="332" height="42" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
