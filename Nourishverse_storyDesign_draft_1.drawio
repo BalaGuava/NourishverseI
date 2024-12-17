@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3" pages="2">
   <diagram name="劇情發展結構" id="pUmAYFhH8gX9ZdCoPKHY">
-    <mxGraphModel dx="2499" dy="786" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="0" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -81,6 +81,46 @@
         </mxCell>
         <mxCell id="3y2mPfEz16o8gOErcH9n-4" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;快速升餐廳&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D6CF65;" vertex="1" parent="1">
           <mxGeometry x="85" y="418" width="62" height="207" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="IoGfK4IlOOAsiUc2G8W-" name="結局組成分支圖">
+    <mxGraphModel dx="2499" dy="1955" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BSz0f0PyC9X5RBA6Yutl-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BSz0f0PyC9X5RBA6Yutl-1" target="BSz0f0PyC9X5RBA6Yutl-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BSz0f0PyC9X5RBA6Yutl-1" value="第一章" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-232" y="210" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BSz0f0PyC9X5RBA6Yutl-2" value="&lt;span style=&quot;font-size: 15px; text-align: left;&quot;&gt;變成國王&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F7BEBC;" vertex="1" parent="1">
+          <mxGeometry x="574" y="123" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BSz0f0PyC9X5RBA6Yutl-3" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;title&gt;&lt;/title&gt;&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;div style=&quot;font-size:15px;&quot; class=&quot;toggle&quot;&gt;玩家&lt;div style=&quot;font-size: 15px; line-height: 24px; letter-spacing: -0.08px; font-weight: 400; word-wrap: break-word;&quot; class=&quot;paragraph&quot;&gt;遊戲策略準確率應高於xx%才會觸發&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;font-size:15px;&quot; class=&quot;toggle&quot;&gt;&lt;br&gt;&lt;div style=&quot;font-size: 15px; line-height: 24px; letter-spacing: -0.08px; font-weight: 400; word-wrap: break-word;&quot; class=&quot;paragraph&quot;&gt;星球人口增加xx%&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;font-size:15px;&quot; class=&quot;toggle&quot;&gt;玩家&lt;div style=&quot;font-size: 15px; line-height: 24px; letter-spacing: -0.08px; font-weight: 400; word-wrap: break-word;&quot; class=&quot;paragraph&quot;&gt;委員會影像力達xx%&lt;br&gt;任務完成率達xx%&lt;br&gt;和副官關係不低於xx%&lt;br&gt;和其他部門關係不低於xx%&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;font-size:15px;&quot; class=&quot;toggle&quot;&gt;玩家&lt;/div&gt;&lt;div style=&quot;font-size: 15px; line-height: 24px; letter-spacing: -0.08px; font-weight: 400; word-wrap: break-word;&quot; class=&quot;paragraph&quot;&gt;隱藏結局&lt;/div&gt;&lt;div style=&quot;font-size:15px;&quot; class=&quot;toggle&quot;&gt;玩家發現自己的隱藏邪惡身分—邪惡聯盟毒劑部門指揮官&lt;div style=&quot;font-size: 15px; line-height: 24px; letter-spacing: -0.08px; font-weight: 400; word-wrap: break-word;&quot; class=&quot;paragraph&quot;&gt;魔物等級低於xxx級&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px; line-height: 24px; letter-spacing: -0.08px; font-weight: 400; word-wrap: break-word;&quot; class=&quot;paragraph&quot;&gt;偶爾會出現很邪惡的劇情選項&lt;/div&gt;&lt;div style=&quot;font-size: 15px; line-height: 24px; letter-spacing: -0.08px; font-weight: 400; word-wrap: break-word;&quot; class=&quot;paragraph&quot;&gt;使用奇怪的科技和道具debuff&lt;/div&gt;&lt;div style=&quot;font-size: 15px; line-height: 24px; letter-spacing: -0.08px; font-weight: 400; word-wrap: break-word;&quot; class=&quot;paragraph&quot;&gt;和副官的對話、抱怨&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="855" y="-66" width="403" height="546" as="geometry" />
+        </mxCell>
+        <mxCell id="BSz0f0PyC9X5RBA6Yutl-4" value="&lt;span style=&quot;font-size: 15px; text-align: left;&quot;&gt;變成魔王&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F7BEBC;" vertex="1" parent="1">
+          <mxGeometry x="579" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BSz0f0PyC9X5RBA6Yutl-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F7BEBC;" vertex="1" parent="1">
+          <mxGeometry x="581" y="517" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BSz0f0PyC9X5RBA6Yutl-6" value="&lt;span style=&quot;font-size: 15px; text-align: left;&quot;&gt;和平&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F7BEBC;" vertex="1" parent="1">
+          <mxGeometry x="574" y="256" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BSz0f0PyC9X5RBA6Yutl-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BSz0f0PyC9X5RBA6Yutl-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="518" y="387" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BSz0f0PyC9X5RBA6Yutl-7" value="觸發?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="207" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BSz0f0PyC9X5RBA6Yutl-8" value="&lt;span style=&quot;font-size: 15px; text-align: left;&quot;&gt;升官發財&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F7BEBC;" vertex="1" parent="1">
+          <mxGeometry x="581" y="343" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
