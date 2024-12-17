@@ -1,23 +1,86 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
-  <diagram name="第 1 页" id="pUmAYFhH8gX9ZdCoPKHY">
-    <mxGraphModel dx="2148" dy="632" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram name="劇情發展結構" id="pUmAYFhH8gX9ZdCoPKHY">
+    <mxGraphModel dx="2499" dy="786" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="3y2mPfEz16o8gOErcH9n-1" value="發展vs永續" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="42" y="219" width="148" height="341" as="geometry" />
+          <mxGeometry x="42" y="219" width="148" height="825" as="geometry" />
         </mxCell>
         <mxCell id="3y2mPfEz16o8gOErcH9n-2" value="升官vs服務" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="205" y="219" width="173" height="340" as="geometry" />
+          <mxGeometry x="205" y="219" width="173" height="565" as="geometry" />
         </mxCell>
         <mxCell id="3y2mPfEz16o8gOErcH9n-3" value="邪惡vs善良" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="383" y="219" width="159" height="332" as="geometry" />
+          <mxGeometry x="383" y="219" width="159" height="583" as="geometry" />
+        </mxCell>
+        <mxCell id="3y2mPfEz16o8gOErcH9n-5" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;u&gt;劇情方向選擇時間圖&lt;/u&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6D9C91;" vertex="1" parent="1">
+          <mxGeometry x="-131" y="82" width="415" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="3y2mPfEz16o8gOErcH9n-6" value="弧心派" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;size=81;" vertex="1" parent="1">
+          <mxGeometry x="564" y="186" width="88" height="615" as="geometry" />
+        </mxCell>
+        <mxCell id="3y2mPfEz16o8gOErcH9n-14" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;首領介入&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D6CF65;" vertex="1" parent="1">
+          <mxGeometry x="680" y="336" width="52" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="3y2mPfEz16o8gOErcH9n-7" value="碎片&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E5%BC%A7%E5%BF%83%E6%B4%BE%22%20style%3D%22shape%3DumlLifeline%3Bperimeter%3DlifelinePerimeter%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Bcontainer%3D1%3BdropTarget%3D0%3Bcollapsible%3D0%3BrecursiveResize%3D0%3BoutlineConnect%3D0%3BportConstraint%3Deastwest%3BnewEdgeStyle%3D%7B%26quot%3Bcurved%26quot%3B%3A0%2C%26quot%3Brounded%26quot%3B%3A0%7D%3Bparticipant%3DumlEntity%3Bsize%3D81%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22564%22%20y%3D%22186%22%20width%3D%2288%22%20height%3D%22373%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;派" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;size=81;" vertex="1" parent="1">
+          <mxGeometry x="662" y="186" width="88" height="623" as="geometry" />
+        </mxCell>
+        <mxCell id="3y2mPfEz16o8gOErcH9n-26" value="" style="group;strokeColor=none;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-77" y="308" width="1267" height="20.5" as="geometry" />
+        </mxCell>
+        <mxCell id="3y2mPfEz16o8gOErcH9n-15" value="1-1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#E8CEDB;strokeColor=none;" vertex="1" parent="3y2mPfEz16o8gOErcH9n-26">
+          <mxGeometry width="51" height="20.5" as="geometry" />
+        </mxCell>
+        <mxCell id="3y2mPfEz16o8gOErcH9n-25" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FFCCE6;" edge="1" parent="3y2mPfEz16o8gOErcH9n-26" source="3y2mPfEz16o8gOErcH9n-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="636" y="15.5" as="sourcePoint" />
+            <mxPoint x="1267" y="4.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3y2mPfEz16o8gOErcH9n-8" value="圓心派" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;size=81;" vertex="1" parent="1">
+          <mxGeometry x="762" y="186" width="88" height="606" as="geometry" />
+        </mxCell>
+        <mxCell id="3y2mPfEz16o8gOErcH9n-27" value="" style="group;strokeColor=none;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-79" y="341" width="1267" height="20.5" as="geometry" />
+        </mxCell>
+        <mxCell id="3y2mPfEz16o8gOErcH9n-28" value="1-2" style="ellipse;whiteSpace=wrap;html=1;fillColor=#E8CEDB;strokeColor=none;" vertex="1" parent="3y2mPfEz16o8gOErcH9n-27">
+          <mxGeometry width="51" height="20.5" as="geometry" />
+        </mxCell>
+        <mxCell id="3y2mPfEz16o8gOErcH9n-29" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FFCCE6;" edge="1" parent="3y2mPfEz16o8gOErcH9n-27" source="3y2mPfEz16o8gOErcH9n-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="636" y="15.5" as="sourcePoint" />
+            <mxPoint x="1267" y="4.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3y2mPfEz16o8gOErcH9n-9" value="第一章開始" style="rhombus;whiteSpace=wrap;html=1;fillColor=#C2CEFF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-103" y="238" width="103" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="3y2mPfEz16o8gOErcH9n-12" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-123" y="408" width="1294" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="3y2mPfEz16o8gOErcH9n-10" value="第二章開始" style="rhombus;whiteSpace=wrap;html=1;fillColor=#C2CEFF;strokeColor=#969EC4;" vertex="1" parent="3y2mPfEz16o8gOErcH9n-12">
+          <mxGeometry width="103" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="3y2mPfEz16o8gOErcH9n-11" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#969EC4;" edge="1" parent="3y2mPfEz16o8gOErcH9n-12" source="3y2mPfEz16o8gOErcH9n-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="-114" as="sourcePoint" />
+            <mxPoint x="1033" y="25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3y2mPfEz16o8gOErcH9n-30" value="" style="group;strokeColor=none;" vertex="1" connectable="0" parent="3y2mPfEz16o8gOErcH9n-12">
+          <mxGeometry x="27" y="81" width="1267" height="20.5" as="geometry" />
+        </mxCell>
+        <mxCell id="3y2mPfEz16o8gOErcH9n-31" value="2-1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#E8CEDB;strokeColor=none;" vertex="1" parent="3y2mPfEz16o8gOErcH9n-30">
+          <mxGeometry width="51" height="20.5" as="geometry" />
+        </mxCell>
+        <mxCell id="3y2mPfEz16o8gOErcH9n-32" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FFCCE6;" edge="1" parent="3y2mPfEz16o8gOErcH9n-30" source="3y2mPfEz16o8gOErcH9n-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="636" y="15.5" as="sourcePoint" />
+            <mxPoint x="1267" y="4.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="3y2mPfEz16o8gOErcH9n-4" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;快速升餐廳&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D6CF65;" vertex="1" parent="1">
-          <mxGeometry x="78" y="294" width="76" height="39" as="geometry" />
-        </mxCell>
-        <mxCell id="3y2mPfEz16o8gOErcH9n-5" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;u&gt;劇情方向選擇時間圖&lt;/u&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-36" y="131" width="332" height="42" as="geometry" />
+          <mxGeometry x="85" y="418" width="62" height="207" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
