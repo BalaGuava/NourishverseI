@@ -122,7 +122,7 @@
         </mxCell>
         <mxCell id="BSz0f0PyC9X5RBA6Yutl-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BSz0f0PyC9X5RBA6Yutl-7" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="414" y="372" as="targetPoint" />
+            <mxPoint x="330" y="101" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BSz0f0PyC9X5RBA6Yutl-7" value="觸發?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -146,8 +146,66 @@
         <mxCell id="1bI0Yvs1uGPEMKIdVlrY-3" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;退出聯盟&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="697" y="614" width="90" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="1bI0Yvs1uGPEMKIdVlrY-4" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: -0.08px; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;委員會影像力&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="684" y="216.5" width="96" height="41" as="geometry" />
+        <mxCell id="1bI0Yvs1uGPEMKIdVlrY-4" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: -0.08px; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;委員會影像力&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: -0.08px; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;委員會任務完成率&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: -0.08px; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;與各處關係&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: -0.08px; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;與副官關係&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="684" y="181" width="123" height="76.5" as="geometry" />
+        </mxCell>
+        <mxCell id="1bI0Yvs1uGPEMKIdVlrY-5" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="335" y="472" width="18" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="1bI0Yvs1uGPEMKIdVlrY-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1bI0Yvs1uGPEMKIdVlrY-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="255" y="533" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1bI0Yvs1uGPEMKIdVlrY-9" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1bI0Yvs1uGPEMKIdVlrY-8">
+          <mxGeometry x="0.005" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1bI0Yvs1uGPEMKIdVlrY-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1bI0Yvs1uGPEMKIdVlrY-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="462" y="367" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1bI0Yvs1uGPEMKIdVlrY-11" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1bI0Yvs1uGPEMKIdVlrY-10">
+          <mxGeometry x="-0.0252" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1bI0Yvs1uGPEMKIdVlrY-6" value="取得各處長老與各個派別支持" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="17" y="422" width="208" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="1bI0Yvs1uGPEMKIdVlrY-12" value="支線任務完成度與內部選項" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="45" y="381" width="162" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="1bI0Yvs1uGPEMKIdVlrY-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1bI0Yvs1uGPEMKIdVlrY-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="482" y="645" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1bI0Yvs1uGPEMKIdVlrY-15" value="邪惡聯盟" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1bI0Yvs1uGPEMKIdVlrY-14">
+          <mxGeometry x="-0.0467" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1bI0Yvs1uGPEMKIdVlrY-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1bI0Yvs1uGPEMKIdVlrY-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="493" y="539" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1bI0Yvs1uGPEMKIdVlrY-17" value="現在的身分" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1bI0Yvs1uGPEMKIdVlrY-16">
+          <mxGeometry x="-0.129" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1bI0Yvs1uGPEMKIdVlrY-13" value="完成主角專屬支線--回憶" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="264" y="514" width="185" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="1bI0Yvs1uGPEMKIdVlrY-18" value="有資格，但不一定要選擇" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="492" y="480" width="150" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="1bI0Yvs1uGPEMKIdVlrY-19" value="星球人口增加" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="512" y="221" width="90" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
